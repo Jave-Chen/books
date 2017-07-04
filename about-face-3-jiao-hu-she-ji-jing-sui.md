@@ -25,5 +25,5 @@
 
 不要极端愚蠢地停止进度
 
-![](/assets/146.png)
+![](/assets/146.png)![](/assets/149.png)
 
