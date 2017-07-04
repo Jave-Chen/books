@@ -15,9 +15,11 @@
 * 暂时姿态的程序在打开短暂的时间后随即关闭，用一套有限的附加空间展现一些单一的功能。![](/assets/10801.png) 
 * 明亮而清晰
 
-
-
 * ### 暂时应用程序只使用一个窗口和视图![](/assets/110.png)后台姿态
 
-![](/assets/11001.png)![](/assets/11002.png)![](/assets/116.png)
+![](/assets/11001.png)![](/assets/11002.png)![](/assets/116.png)![](/assets/129.png)![](/assets/132.png)![](/assets/13302.png)![](/assets/136.png)![](/assets/138.png)
+
+![](/assets/140.png)第11章 消除附加的工作
+
+
 
